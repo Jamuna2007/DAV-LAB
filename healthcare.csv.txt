@@ -1,0 +1,16 @@
+Patient_ID,Age,Gender,Blood_Pressure,Cholesterol,Blood_Sugar,BMI,Smoking,Exercise_Hours,Disease
+P001,45,Male,140/90,220,115,28.5,Yes,2,Heart Disease
+P002,32,Female,120/80,180,92,23.4,No,5,No
+P003,58,Male,150/95,245,130,31.2,Yes,1,Diabetes
+P004,41,Female,130/85,205,108,27.8,No,3,No
+P005,67,Male,160/100,260,145,33.5,Yes,1,Heart Disease
+P006,29,Female,110/70,165,88,21.9,No,6,No
+P007,52,Male,145/90,235,125,30.1,Yes,2,Diabetes
+P008,36,Female,125/80,190,98,25.2,No,4,No
+P009,61,Male,155/95,250,138,32.4,Yes,1,Heart Disease
+P010,48,Female,135/85,215,118,29.0,No,2,Diabetes
+P011,26,Male,115/75,170,85,22.5,No,7,No
+P012,55,Female,145/90,230,128,30.8,No,2,Diabetes
+P013,39,Male,128/82,195,100,26.1,Yes,3,No
+P014,70,Female,165/100,275,150,34.2,No,1,Heart Disease
+P015,43,Male,130/85,210,110,28.0,Yes,3,No
